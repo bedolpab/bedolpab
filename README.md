@@ -10,4 +10,4 @@ I'm second-year student at Dominican University. I have found a passion in the f
 
 ---
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedolpab&show_icons=true&theme=dark)
+![Pablo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bedolpab&show_icons=true&theme=dark)
