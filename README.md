@@ -7,7 +7,3 @@ I'm second-year student at Dominican University. I have found a passion in the f
 - Year: Sophomore (2025)
 - Portfolio: [pablobedolla.com](https://pablobedolla.com/)
 - Socials: [LinkedIn](https://www.linkedin.com/in/bedolpab/)  
-
----
-
-![Pablo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bedolpab&show_icons=true&theme=dark)
