@@ -1,5 +1,5 @@
 # Hi, I'm Pablo Bedolla
-I'm second-year student at Dominican University. I have found a passion in the field of Mathematics and Computer Science/ I am looking forward to continuing my education in these fields and seeing where it takes me in my future career. I'm currently focused on studying Network Analysis and Graph Theory applications in Computer Science.
+I'm second-year student at Dominican University. I have found a passion in the field of Mathematics and Computer Science/ I am looking forward to continuing my education in these fields and seeing where it takes me in my future career.
 
 ## Info
 
