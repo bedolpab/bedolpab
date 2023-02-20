@@ -1,5 +1,5 @@
 # Hi, I'm Pablo Bedolla
-I'm second-year student at Dominican University. I have found a passion in the field of Mathematics and Computer Science/ I am looking forward to continuing my education in these fields and seeing where it takes me in my future career.
+I'm second-year student at Dominican University. I have found a passion in the field of Mathematics and Computer Science. Iam currently focused building a machine learning model that uses Generative Adversarial Networks (GANs) and image processing to create visual representations of the timeline of what people with dementia see.
 
 ## Info
 
