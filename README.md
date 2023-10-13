@@ -4,7 +4,7 @@ Hello, I'm Pablo, a Mathematics student at Dominican University and a Aerospace 
 ## Info
 
 - Current role: Clinical Research Assistant at RUSH Universtiy Medical Center
-- Current project: NASA MIND's Research, Founder & Team Lead @ Dominican University 
+- Current project: [NASA MIND's Research](https://github.com/STARS-Dominican-University), Founder & Team Lead @ Dominican University 
 - Year: Junior Standing
 - Portfolio: [pablobedolla.com](https://pablobedolla.com/)
 - Socials: [LinkedIn](https://www.linkedin.com/in/bedolpab/)  
