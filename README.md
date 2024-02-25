@@ -15,5 +15,5 @@ Hello, I'm Pablo, a Mathematics student at Dominican University and a Aerospace 
   <img src="https://github.com/bedolpab/bedolpab/assets/70508631/db1e6e9e-00b0-40ee-b6ee-b8d44e2ef142" style="width: 150px; margin: 5px;" alt="image">
   <img src="https://github.com/bedolpab/bedolpab/assets/70508631/088665c4-dc90-40bf-9b58-b6225151d9ac" style="width: 150px; margin: 5px;" alt="image">
   <img src="https://github.com/bedolpab/bedolpab/assets/70508631/15d52dab-42cf-49aa-b72c-f74cf3763138" style="width: 150px; margin: 5px;" alt="image">
-  <img src="https://github.com/bedolpab/bedolpab/assets/70508631/1195c6df-f712-424a-9d45-1e0faef95153" style="width: 150px; margin: 5px;" alt="image">
+  <img src="https://github.com/bedolpab/bedolpab/assets/70508631/9574acee-7fe6-4304-81f8-95c3c6d4e590" style="width: 150px; margin: 5px;" alt="image">
 </div>
