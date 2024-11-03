@@ -1,3 +1,3 @@
 ## Pablo C. Bedolla Ortiz.
 #### Electrical Engineering, Mathematics, Physics
-Currently serving as a MSP Intern at NASA's Jet Propulsion Laboratory (JPL). My academic pursuits are in the fields of mechanical engineering, mathematics, and physics. 
+Currently serving as an intern at NASA's Jet Propulsion Laboratory (JPL). My academic pursuits are in the fields of electrical engineering, mathematics, and physics. 
