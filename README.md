@@ -1,5 +1,3 @@
-## Pablo C. Bedolla Ortiz.
-#### Electrical Engineering, Mathematics, Physics
-Currently serving as an intern at NASA's Jet Propulsion Laboratory (JPL). My academic pursuits are in the fields of electrical engineering, mathematics, and physics. 
+Presently, I serve as a year-round intern within the Instrument Operations Engineering division (398D) at the NASA Jet Propulsion Laboratory. My current scholarly pursuit is vision-based computer learning.
 
-Currently running, Founder: http://www.otterlaboratories.com/. Visit OTTER Laboratories. 
+Currently running, Founder: http://www.otterlaboratories.com/.
