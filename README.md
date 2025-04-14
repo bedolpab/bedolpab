@@ -1,2 +1,2 @@
 ## Pablo C. Bedolla Ortiz.
-mathematics and computers π
+I am primarily interested in cryptography and adversarial machine learning. My recent work spans optimized data wrangling and data algorithms. 
