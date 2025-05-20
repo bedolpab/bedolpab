@@ -1,7 +1,7 @@
 ## Pablo C. Bedolla Ortiz.
 I am primarily interested in cryptography and quantum algorithms/computing applications (pqc) to cryptography. My recent work spans optimized data wrangling and data algorithms at the NASA Jet Propulsion Laboratory.
 
-**at the moment**: You can view our team's progress at: https://github.com/Axis-Four-Labs
+**at the moment**: working on @axisfourlabs. you can view our team's progress at: https://github.com/Axis-Four-Labs
 
 ```
 $ axisfetch
