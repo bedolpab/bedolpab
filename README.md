@@ -1,2 +1,2 @@
 ## Pablo C. Bedolla Ortiz.
-ML Research Intern at JPL/Caltech researching LLM reasoning for mission control systems. Interested in quantum cryptography/communication for doctoral research. ORCID: 0009-0009-2511-7719ML Research Intern at JPL/Caltech researching LLM reasoning for mission control systems. Interested in quantum cryptography/communication for doctoral research. ORCID: 0009-0009-2511-7719
+ML Research Intern at JPL/Caltech researching LLM reasoning for mission control systems. Interested in quantum cryptography/communication for doctoral research. ORCID: 0009-0009-2511-7719
