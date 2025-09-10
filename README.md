@@ -1,2 +1,2 @@
 ## Pablo C. Bedolla Ortiz.
-Research on AI/ML @ JPL/Caltech. Interested in quantum cryptography/communication for doctoral research. ORCID: 0009-0009-2511-7719
+Research on AI/ML @ JPL/Caltech. My background is in Computer Science, but I transitioned to Mathematics from academic curiosity. 
