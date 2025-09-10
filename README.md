@@ -1,2 +1,4 @@
 ## Pablo C. Bedolla Ortiz.
-Research on AI/ML @ JPL/Caltech. My background is in Computer Science, but I transitioned to Mathematics from academic curiosity. 
+research on AI/ML @ JPL/Caltech. my background is in computer science, but I transitioned to mathematics from academic curiosity. 
+
+<sub><sup>all my repositories are private</sup></sub>
