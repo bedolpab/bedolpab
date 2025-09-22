@@ -1,4 +1,4 @@
-## pablo c. bedolla ortiz
-ai/ml [at] jpl. my background is in computer science, but I transitioned to mathematics out of academic curiosity. 
+## Pablo Cesar Bedolla Ortiz.
+AI/ML [at] NASA/JPL-Caltech. My background is in Computer Science, but I transitioned to Mathematics out of academic curiosity. 
 
-<sup>all my repositories are private. i keep a few for public view.</sup>
+<sup>All my repositories are private. I keep a few public.</sup>
