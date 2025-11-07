@@ -1,2 +1,2 @@
 ## Pablo Cesar Bedolla Ortiz.
-AI/ML [at] NASA/JPL-Caltech.
+I like math and AI.
