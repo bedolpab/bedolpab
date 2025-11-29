@@ -1,2 +1,2 @@
 ## Pablo Cesar Bedolla Ortiz.
-I like math and AI.
+I take interest in mathematics and computer science (specifically artificial intelligence). 
