@@ -1,2 +1,2 @@
-## Pablo Cesar Bedolla Ortiz.
-I like math and AI.
+## pablo
+i like math and AI.
